@@ -1,0 +1,10 @@
+gensim==4.1.2
+matplotlib==3.3.4
+nltk==3.6.2
+numpy==1.21.2
+pandas==1.3.3
+PyPDF2==2.11.2
+scikit_learn==1.1.3
+seaborn==0.11.2
+wefe==0.3.2
+wordcloud==1.8.1
